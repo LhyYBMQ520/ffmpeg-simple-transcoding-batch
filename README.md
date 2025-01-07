@@ -6,7 +6,9 @@
 
 ## 注意事项
 
-由于使用vscode utf8编码编写，在非默认使用utf8编码的电脑上可能会出现某一行echo后的字因为显示错误被识别成了命令，导致命令行界面上出现报错，虽然大多数情况下不会影响使用，但可能会导致提示信息丢失。
+由于使用vscode utf8编码编写，在非默认使用utf8编码的电脑上运行可能会出现报错，虽然大多数情况下不会影响使用，但可能会导致提示信息丢失。
+
+详情请见Issues：[跳转链接](https://github.com/LhyYBMQ520/ffmpeg-simple-transcoding-batch/issues/1)
 
 # 用法
 
